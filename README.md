@@ -9,7 +9,7 @@ Gamejolt link : https://gamejolt.com/games/megaman-battle-network-project-genesi
 
 Some screenshots :
 
-https://youtu.be/AVNb1WwwBic
+<p align="center"><img src="https://i.gjcdn.net/data/games/2/129/170129/screenshots/2016-09-30_20h07_51-ehqm7igw.png"></p>
 
 # A little backstory behind this Fan Project
 The game was originally made by **SpookyDookie** and **The Zenith Serene**, released on July 27, 2016 and built on Gamemaker Studio 1.4.1690
