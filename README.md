@@ -11,6 +11,8 @@ Some screenshots :
 
 <p align="center"><img src="https://github.com/d4nieru/MegamanBattleNetworkProjectGenesis/blob/main/images/scr.png"></p>
 
+[![thumbnail.png](https://i.postimg.cc/8cnWGcG2/thumbnail.png)](https://youtu.be/AVNb1WwwBic)
+
 # A little backstory behind this Fan Project
 The game was originally made by **SpookyDookie** and **The Zenith Serene**, released on July 27, 2016 and built on Gamemaker Studio 1.4.1690
 
