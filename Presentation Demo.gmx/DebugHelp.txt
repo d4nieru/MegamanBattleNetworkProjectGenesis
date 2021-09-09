@@ -1,0 +1,58 @@
+//////////////////////////////////Debug Functions////////////////////////////////
+* When using the Debug Functions it is recommended that you pause the game first.
+
+Press "D" to turn on/off Debug Mode
+Press "Enter" to Pause/Unpause the game
+Press "O" to reduce the room speed to 10.
+Press "I" to set the room speed back to 60.
+Press "R" to restart the room.
+Press "W" to restart the game.
+Press "T" to show the clock and Megaman's current Element.
+Press "K" to destroy the nearest virus. //(This also works on Navi Bosses)
+
+Press "J" to summon a virus to a certain panel. //(Name of the Virus,The Panel to summon it on 1-9) This can only be used when there is less than 3 viruses on the field.
+     List of current virus Names
+Mettaur
+Canodumb
+Champy
+ChampyEX
+Boomer
+Powie
+GutsMan
+CrashMan (having more than one CrashMan on the field will crash the game.)
+Bass
+MegaManSF
+
+Press "F" to change all of the panels to a certain element.
+Type "Normal" for Normal panels.
+Type "Cracked" for Cracked panels.
+Type "Ice" for Ice panels.
+Type "Lava" for Lava panels.
+Type "Grass" for Grass panels.
+Type "Poison" for Poison panels.
+Type "Metal" for Metal panels. //(They have no function.)
+Type "Holy" for Holy panels. //(They have no function.)
+
+Press "H" to change Megaman's Stats //(Hp,MaxHp,Atk,Charge_Atk,Speed,Element)
+   For the Element Section
+Type "Normal" for No Element.
+Type "Aqua" for Aqua Element.
+Type "Fire" for Fire Element.
+Type "Wood" for Wood Element.
+Type "Elec" for Electric Element.
+
+Press "C" to change the first slot of your chips //(Name,Power,Element)
+   For the Element Section
+Type "Normal" for No Element.
+Type "Aqua" for Aqua Element.
+Type "Fire" for Fire Element.
+Type "Wood" for Wood Element.
+Type "Elec" for Electric Element.
+Type "Sword" for Sword Element.
+Type "Heal" for Heal Element.
+
+
+
+
+
+

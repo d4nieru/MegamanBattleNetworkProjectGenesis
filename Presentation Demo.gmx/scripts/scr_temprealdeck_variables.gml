@@ -1,0 +1,32 @@
+Chip_Deck[0] = obj_cannon_a;
+Chip_Deck[1] = obj_cannon_a;
+Chip_Deck[2] = obj_cannon_b;
+Chip_Deck[3] = obj_cannon_b;
+Chip_Deck[4] = obj_vulcan_n;
+Chip_Deck[5] = obj_vulcan_n;
+Chip_Deck[6] = obj_vulcan_n;
+Chip_Deck[7] = obj_minibomb_a;
+Chip_Deck[8] = obj_minibomb_a;
+Chip_Deck[9] = obj_minibomb_b
+Chip_Deck[10] = obj_sword_s;
+Chip_Deck[11] = obj_sword_s;
+Chip_Deck[12] = obj_sword_s;
+Chip_Deck[13] = obj_widesword_s;
+Chip_Deck[14] = obj_widesword_s;
+
+Chip_Deck[15] = obj_airshot_star;
+Chip_Deck[16] = obj_airshot_star;
+Chip_Deck[17] = obj_airshot_star;
+Chip_Deck[18] = obj_airshot_star;
+Chip_Deck[19] = obj_areagrab_s;
+Chip_Deck[20] = obj_areagrab_s;
+Chip_Deck[21] = obj_hp10_a;
+Chip_Deck[22] = obj_hp10_a;
+Chip_Deck[23] = obj_hp10_l;
+Chip_Deck[24] = obj_hp10_l;
+Chip_Deck[25] = obj_attack10_star;
+Chip_Deck[26] = obj_attack10_star;
+Chip_Deck[27] = obj_attack10_star;
+Chip_Deck[28] = obj_busterup_star;
+Chip_Deck[29] = obj_swordmode_star;
+

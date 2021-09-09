@@ -1,0 +1,3 @@
+NOTE* Play the game in the Pre Demo folder before you enable the DLC, so you can notice the difference.
+
+To use the DLC replace the data.win file in the Pre Demo folder with the data.win file in this folder.
