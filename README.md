@@ -7,6 +7,10 @@ MMBN Project Genesis is a fan game of the MegaMan Battle Network games. Made by 
 
 Gamejolt link : https://gamejolt.com/games/megaman-battle-network-project-genesis/170129
 
+Some screenshots :
+
+https://youtu.be/AVNb1WwwBic
+
 # A little backstory behind this Fan Project
 The game was originally made by **SpookyDookie** and **The Zenith Serene**, released on July 27, 2016 and built on Gamemaker Studio 1.4.1690
 
